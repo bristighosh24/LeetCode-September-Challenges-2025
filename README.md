@@ -16,3 +16,9 @@ This repository contains my daily LeetCode challenge solutions for September 202
 - Java ☕  
 
 Updated README.md with Day 01 progress
+
+
+| Day | Problem | Language | Solution Link |
+|-----|---------|----------|---------------|
+| 01  | [Maximum Average Pass Ratio (Leetcode 1792)](https://leetcode.com/problems/maximum-average-pass-ratio/) | Java | [solution1792.java](./solution1792.java) |
+| 02  | [Find the Number of Ways to Place People I (Leetcode 3025)](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | Java | [solution3025.java](./solution3025.java) |
