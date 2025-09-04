@@ -31,3 +31,12 @@ Updated README.md with Day 02 progress
 | 02  | [Find the Number of Ways to Place People I (Leetcode 3025)](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | Java | [solution3025.java](./solution3025.java) |
 | 03  | [Find the Number of Ways to Place People II (Leetcode 3027)](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | Java | [solution3027.java](./solution3027.java) |
 Updated README.md with Day 03 progress
+
+
+### Day 04  
+| Day | Problem | Language | Solution Link |
+|-----|---------|----------|---------------|
+| 04  | [Find Closest Person (Leetcode 3516)](https://leetcode.com/problems/find-closest-person/) | Java | [solution3516.java](solution3516.java) |
+
+Updated README.md with Day 03 progress
+
