@@ -38,5 +38,13 @@ Updated README.md with Day 03 progress
 |-----|---------|----------|---------------|
 | 04  | [Find Closest Person (Leetcode 3516)](https://leetcode.com/problems/find-closest-person/) | Java | [solution3516.java](solution3516.java) |
 
-Updated README.md with Day 03 progress
+Updated README.md with Day 04 progress
+
+
+### Day 05  
+| Day | Problem | Language | Solution Link |
+|-----|---------|----------|---------------|
+| 05  | [Minimum Operations to Make the Integer Zero (Leetcode 2749)](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | Java | [solution2749.java](solution2749.java) |
+
+Updated README.md with Day 05 progress
 
