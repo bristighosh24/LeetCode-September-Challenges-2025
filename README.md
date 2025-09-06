@@ -48,3 +48,7 @@ Updated README.md with Day 04 progress
 
 Updated README.md with Day 05 progress
 
+| 06 | Problem Title (LeetCode 3495) | Java | [solutionXXXX.java](solution3495.java) |
+
+Updated README.md with Day 06 progress
+
