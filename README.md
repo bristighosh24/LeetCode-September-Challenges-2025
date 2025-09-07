@@ -52,3 +52,7 @@ Updated README.md with Day 05 progress
 
 Updated README.md with Day 06 progress
 
+| 07 | Find N Unique Integers Sum up to Zero (LeetCode 1304) | Java | [solution1304.java](solution1304.java) |
+Updated README.md with Day 07 progress
+
+
