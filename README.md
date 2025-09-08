@@ -55,4 +55,6 @@ Updated README.md with Day 06 progress
 | 07 | Find N Unique Integers Sum up to Zero (LeetCode 1304) | Java | [solution1304.java](solution1304.java) |
 Updated README.md with Day 07 progress
 
+| 08 | Convert Integer to the Sum of Two No-Zero Integers (LeetCode 1317) | Java | [solution1317.java](solution1317.java) |
+Updated README.md with Day 08 progress
 
