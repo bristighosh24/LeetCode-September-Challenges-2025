@@ -58,3 +58,12 @@ Updated README.md with Day 07 progress
 | 08 | Convert Integer to the Sum of Two No-Zero Integers (LeetCode 1317) | Java | [solution1317.java](solution1317.java) |
 Updated README.md with Day 08 progress
 
+Day 09
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 09  | Number of People Aware of a Secret (LeetCode 2327) | Java | [solution2327.java](solution2327.java) |
+
+Updated README.md with Day 09 progress
+
+
