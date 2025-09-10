@@ -66,4 +66,13 @@ Day 09
 
 Updated README.md with Day 09 progress
 
+Day 10
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 10  | Minimum Number of People to Teach (LeetCode 1733) | Java | [solution1733.java](solution1733.java) |
+
+Updated README.md with Day 10 progress
+
+
 
