@@ -74,5 +74,12 @@ Day 10
 
 Updated README.md with Day 10 progress
 
+Day 11
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 11  | Sort Vowels in a String (LeetCode 2785) | Java | [solution2785.java](solution2785.java) |
+
+Updated README.md with Day 11 progress
 
 
