@@ -82,4 +82,12 @@ Day 11
 
 Updated README.md with Day 11 progress
 
+Day 12
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 12  | Vowels Game in a String (LeetCode 3227) | Java | [solution3227.java](solution3227.java) |
+
+Updated README.md with Day 12 progress
+
 
