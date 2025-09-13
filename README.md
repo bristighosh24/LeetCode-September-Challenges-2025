@@ -90,4 +90,12 @@ Day 12
 
 Updated README.md with Day 12 progress
 
+Day 13
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 13  | Find Most Frequent Vowel and Consonant (LeetCode 3541) | Java | [solution3541.java](solution3541.java) |
+
+Updated README.md with Day 13 progress
+
 
