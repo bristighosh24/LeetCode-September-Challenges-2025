@@ -98,4 +98,11 @@ Day 13
 
 Updated README.md with Day 13 progress
 
+Day 14
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 14  | Vowel Spellchecker (LeetCode 966) | Java | [solution966.java](solution966.java) |
+
+Updated README.md with Day 14 progress
 
