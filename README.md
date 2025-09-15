@@ -106,3 +106,11 @@ Day 14
 
 Updated README.md with Day 14 progress
 
+Day 15
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 15  | Maximum Number of Words You Can Type (LeetCode 1935) | Java | [solution1935.java](solution1935.java) |
+
+Updated README.md with Day 15 progress
+
