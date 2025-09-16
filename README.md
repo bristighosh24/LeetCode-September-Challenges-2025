@@ -114,3 +114,12 @@ Day 15
 
 Updated README.md with Day 15 progress
 
+Day 16
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 16  | Replace Non-Coprime Numbers in Array (LeetCode 2197) | Java | [solution2197.java](solution2197.java) |
+
+Updated README.md with Day 16 progress
+
+
