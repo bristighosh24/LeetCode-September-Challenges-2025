@@ -122,4 +122,13 @@ Day 16
 
 Updated README.md with Day 16 progress
 
+Day 17
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 17  | Design a Food Rating System (LeetCode 2353) | Java | [solution2353.java](solution2353.java) |
+
+Updated README.md with Day 17 progress
+
+
 
