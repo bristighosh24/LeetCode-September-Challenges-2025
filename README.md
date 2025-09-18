@@ -130,5 +130,12 @@ Day 17
 
 Updated README.md with Day 17 progress
 
+Day 18
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 18  | Design Task Manager (LeetCode 3408) | Java | [solution3408.java](solution3408.java) |
+
+Updated README.md with Day 18 progress
 
 
