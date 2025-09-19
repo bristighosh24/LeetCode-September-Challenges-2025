@@ -138,4 +138,12 @@ Day 18
 
 Updated README.md with Day 18 progress
 
+Day 19
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 19  | Design Spreadsheet (LeetCode 3484) | Java | [solution3484.java](solution3484.java) |
+
+Updated README.md with Day 19 progress
+
 
