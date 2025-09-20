@@ -147,3 +147,10 @@ Day 19
 Updated README.md with Day 19 progress
 
 
+Day 20
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 20  | Implement Router (LeetCode 3508) | Java | [solution3508.java](solution3508.java) |
+
+Updated README.md with Day 20 progress
