@@ -154,3 +154,12 @@ Day 20
 | 20  | Implement Router (LeetCode 3508) | Java | [solution3508.java](solution3508.java) |
 
 Updated README.md with Day 20 progress
+
+Day 21
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 21  | Design Movie Rental System (LeetCode 1912) | Java | [solution1912.java](solution1912.java) |
+
+Updated README.md with Day 21 progress
+
