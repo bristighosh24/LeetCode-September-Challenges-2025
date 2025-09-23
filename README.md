@@ -167,3 +167,8 @@ Updated README.md with Day 21 progress
 |-----|----------|----------|---------------|
 | 22  | Count Elements With Maximum Frequency (LeetCode 3005) | Java | [solution3005.java](solution3005.java) |
 Updated README.md with Day 22 progress
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 23  | Compare Version Numbers (LeetCode 165) | Java | [solution165.java](solution165.java) |
+Updated README.md with Day 23 progress
