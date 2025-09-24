@@ -172,3 +172,8 @@ Updated README.md with Day 22 progress
 |-----|----------|----------|---------------|
 | 23  | Compare Version Numbers (LeetCode 165) | Java | [solution165.java](solution165.java) |
 Updated README.md with Day 23 progress
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 24  | Fraction to Recurring Decimal (LeetCode 166) | Java | [solution166.java](solution166.java) |
+Updated README.md with Day 24 progress
