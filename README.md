@@ -177,3 +177,8 @@ Updated README.md with Day 23 progress
 |-----|----------|----------|---------------|
 | 24  | Fraction to Recurring Decimal (LeetCode 166) | Java | [solution166.java](solution166.java) |
 Updated README.md with Day 24 progress
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 25  | Triangle (LeetCode 120) | Java | [solution120.java](solution120.java) |
+Updated README.md with Day 25 progress
