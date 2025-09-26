@@ -182,3 +182,9 @@ Updated README.md with Day 24 progress
 |-----|----------|----------|---------------|
 | 25  | Triangle (LeetCode 120) | Java | [solution120.java](solution120.java) |
 Updated README.md with Day 25 progress
+
+| Day | Problem | Language | Solution Link |
+|-----|----------|----------|---------------|
+| 26  | Valid Triangle Number (LeetCode 611) | Java | [solution611.java](solution611.java) |
+Updated README.md with Day 26 progress
+
